@@ -49,11 +49,11 @@ This project explores these approaches and evaluates their behavior across diffe
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/ai-pathfinding-agent.git
+git clone https://github.com/sabakhalil806-collab/ai-pathfinding-agent.git
 cd ai-pathfinding-agent
 ```
 
-Replace `YOUR-USERNAME` with your GitHub username.
+
 
 ### 2. Install the dependencies
 
